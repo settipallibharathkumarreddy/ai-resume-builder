@@ -1,6 +1,6 @@
 # AI Resume Writer
 
-An AI-powered resume builder built with Python and Streamlit.
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url.streamlit.app)
 
 ## 🚀 Features
 
