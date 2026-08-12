@@ -18,6 +18,10 @@
 - Git
 - GitHub
 
+## 🎯 Purpose
+The purpose of this application is to streamline resume creation for job seekers, helping them quickly build and optimize professional resumes using a smart and user-friendly interface.
+
+
 ## ▶️ How to Run
 
 1. Clone this repository.
