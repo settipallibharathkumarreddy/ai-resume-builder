@@ -26,7 +26,3 @@ An AI-powered resume builder built with Python and Streamlit.
 
 ```bash
 pip install -r requirements.txt
-
-## 📸 Project Screenshot
-
-![AI Resume Writer Screenshot](Screenshot%202026-08-12%20213638.png)
